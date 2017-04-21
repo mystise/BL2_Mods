@@ -1,0 +1,11 @@
+# Nerf the amount of money that missions give you to the level from TPS. BL2: 45, TPS: 40.5
+set GD_Economy.Missions.Att_BaseCredits_MissionRewards:ConstantAttributeValueResolver_0 ConstantValue 40.5
+
+# Adjust the weights of items in the IOTD section to the levels from TPS.
+# Uncommon: BL2: 4, TPS: 1 before level 7, 0 after
+# Rare: Same between BL2 and TPS, 1.2
+# Very Rare: BL2: 0.2, TPS: 0.3
+# Legendary: BL2: 0.0055, TPS: 0.015
+set GD_ItemPools_Shop.Misc.Att_IOTD_Weighting_03_Uncommon:ConstantAttributeValueResolver_1 ConstantValue 0
+set GD_ItemPools_Shop.Misc.Att_IOTD_Weighting_05_VeryRare:ConstantAttributeValueResolver_0 ConstantValue 0.3
+set GD_ItemPools_Shop.Misc.Att_IOTD_Weighting_06_Legendary:ConstantAttributeValueResolver_0 ConstantValue 0.015
