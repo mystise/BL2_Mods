@@ -1,0 +1,35 @@
+start OnDemand GD_Mercenary_Streaming
+
+set GD_Mercenary_Skills.SkillTree.Branch_GunLust Tiers[2].PointsToUnlockNextTier 1
+set GD_Mercenary_Skills.SkillTree.Branch_Brawn Tiers[2].PointsToUnlockNextTier 1
+set GD_Mercenary_Skills.SkillTree.Branch_Rampage Tiers[2].PointsToUnlockNextTier 1
+
+start OnDemand GD_Soldier_Streaming
+
+set GD_Soldier_Skills.SkillTree.Branch_Gunpowder Tiers[2].PointsToUnlockNextTier 1
+set GD_Soldier_Skills.SkillTree.Branch_Survival Tiers[2].PointsToUnlockNextTier 1
+set GD_Soldier_Skills.SkillTree.Branch_Guerrilla Tiers[2].PointsToUnlockNextTier 1
+
+start OnDemand GD_Siren_Streaming
+
+set GD_Siren_Skills.SkillTree.Branch_Cataclysm Tiers[2].PointsToUnlockNextTier 1
+set GD_Siren_Skills.SkillTree.Branch_Harmony Tiers[2].PointsToUnlockNextTier 1
+set GD_Siren_Skills.SkillTree.Branch_Motion Tiers[2].PointsToUnlockNextTier 1
+
+start OnDemand GD_Assassin_Streaming
+
+set GD_Assassin_Skills.SkillTree.Branch_Bloodshed Tiers[2].PointsToUnlockNextTier 1
+set GD_Assassin_Skills.SkillTree.Branch_Cunning Tiers[2].PointsToUnlockNextTier 1
+set GD_Assassin_Skills.SkillTree.Branch_Sniping Tiers[2].PointsToUnlockNextTier 1
+
+start OnDemand GD_Tulip_Mechro_Streaming
+
+set GD_Tulip_Mechromancer_Skills.SkillTrees.Branch_LittleBigTrouble Tiers[2].PointsToUnlockNextTier 1
+set GD_Tulip_Mechromancer_Skills.SkillTrees.Branch_BestFriendsForever Tiers[2].PointsToUnlockNextTier 1
+set GD_Tulip_Mechromancer_Skills.SkillTrees.Branch_EmbracingChaos Tiers[2].PointsToUnlockNextTier 1
+
+start OnDemand GD_Lilac_Psycho_Streaming
+
+set GD_Lilac_SkillsBase.SkillTree.Branch_Bloodlust Tiers[2].PointsToUnlockNextTier 1
+set GD_Lilac_SkillsBase.SkillTree.Branch_Hellborn Tiers[2].PointsToUnlockNextTier 1
+set GD_Lilac_SkillsBase.SkillTree.Branch_Mania Tiers[2].PointsToUnlockNextTier 1

@@ -13,4 +13,12 @@ Experimental: Haven't been fully playtested, but should work at least partially.
 
 - TPS Vendors: Changes Item of the Day chances to their TPS levels when possible. Not exactly the same as TPS, but as close as possible in BL2.
 
-TODO: Clean up and release hotfixes
+Hotfixes: Must be run through the converter util before usable. DO NOT EXEC THESE, THEY WILL NOT WORK
+
+- Axton: Contains the Axton skill changes
+
+- Simple: Hotfixes for my patch set, enables Raving Retribution rants, adds Gen 2 pearls to OMGWTH's loot pool at OP8 (or at least tries to, haven't playtested this yet), adds the Grog to the Gold Golem's loot pool
+
+- TPS Skills: Changes skill trees to act like TPS skill trees, such that tier 3 -> 4 only requires one point. Probably overkill, but can be fun to mess around with.
+
+- UCP Base: Base game hotfixes with Vermivorous evolve chances slightly boosted
