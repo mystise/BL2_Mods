@@ -23,6 +23,6 @@ Hotfixes: Must be run through the converter util before usable. DO NOT EXEC THES
 
 - UCP Base: Base game hotfixes with Vermivorous evolve chances slightly boosted
 
-- OOO: Buffs OOO's spawn rate by 10x. Was 1%, is now 10%.
+- OOO: Buffs OOO's spawn rate by 5x. Was 1%, is now 5%.
 
 - OPLoot: Forces world dropped gear at level 72 and above to always drop on level. Does not work for boss loot yet.
