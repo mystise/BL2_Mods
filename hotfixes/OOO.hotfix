@@ -1,0 +1,2 @@
+start Level None
+set GD_Native_Badass.WeightingPlayerCount.FireGod_PerPlayers ConditionalInitialization (bEnabled=True,ConditionalExpressionList=(),DefaultBaseValue=(BaseValueConstant=0.1,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.0))

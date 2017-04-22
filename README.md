@@ -22,3 +22,7 @@ Hotfixes: Must be run through the converter util before usable. DO NOT EXEC THES
 - TPS Skills: Changes skill trees to act like TPS skill trees, such that tier 3 -> 4 only requires one point. Probably overkill, but can be fun to mess around with.
 
 - UCP Base: Base game hotfixes with Vermivorous evolve chances slightly boosted
+
+- OOO: Buffs OOO's spawn rate by 10x. Was 1%, is now 10%.
+
+- OPLoot: Forces world dropped gear at level 72 and above to always drop on level. Does not work for boss loot yet.
