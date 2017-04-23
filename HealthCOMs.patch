@@ -1,0 +1,2 @@
+# Double the health regeneration from COMs. BL2 default = 0.5
+set GD_Balance_HealthAndDamage.HealthAndDamage.Att_HealthRegenerationFromItems_Scaler:ConstantAttributeValueResolver_0 ConstantValue 1.0

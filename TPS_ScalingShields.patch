@@ -1,4 +1,0 @@
-# Set scaling factor to the one from TPS. BL2: 1.13, TPS: 1.1
-set GD_Balance_HealthAndDamage.HealthAndDamage.Att_UniversalBalanceScaler:ConstantAttributeValueResolver_0 ConstantValue 1.1
-# Set the shields vs health scaling factor to the one from TPS (Maybe a bit overkill). BL2: 80, TPS: 82
-set GD_Balance_HealthAndDamage.HealthAndDamage.Att_UniversalBalanceMultiplier_HealthShields:ConstantAttributeValueResolver_0 ConstantValue 82.0
