@@ -1,0 +1,4 @@
+# Courtesy of the UCP
+# Disable Love Thumper's friendly damage
+
+set GD_Shields.Skills.Roid_Shield_Skill_LoveThumper:BehaviorProviderDefinition_0.Behavior_Explode_1 bCanDamageFriendlies False

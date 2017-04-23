@@ -1,0 +1,16 @@
+# Courtesy of the UCP
+# Enable auto-pickup for all types of currency
+
+set GD_Currency.A_Item.EridiumBar bAutomaticallyPickup True
+
+set GD_Currency.A_Item.EridiumStick bAutomaticallyPickup True
+
+set GD_Iris_TorgueToken.UsableItems.Pickup_TorgueToken bAutomaticallyPickup True
+
+set GD_Orchid_SeraphCrystal.UsableItems.Pickup_SeraphCrystal bAutomaticallyPickup True
+
+set GD_Iris_SeraphCrystal.UsableItems.Pickup_SeraphCrystal bAutomaticallyPickup True
+
+set GD_Sage_SeraphCrystal.UsableItems.Pickup_SeraphCrystal bAutomaticallyPickup True
+
+set GD_Aster_SeraphCrystal.UsableItems.Pickup_SeraphCrystal bAutomaticallyPickup True

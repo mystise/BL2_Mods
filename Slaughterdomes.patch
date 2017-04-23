@@ -1,0 +1,8 @@
+# Courtesy of the UCP
+# Allow slaughter-domes to be repeatable
+
+set GD_Z2_CreatureSlaughter.M_CreatureSlaughter_5 bRepeatable True
+
+set GD_Z1_BanditSlaughter.M_BanditSlaughter5 bRepeatable True
+
+set GD_Z3_RobotSlaughter.M_RobotSlaughter_5 bRepeatable True
