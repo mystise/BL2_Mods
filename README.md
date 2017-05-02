@@ -39,6 +39,8 @@ Hotfixes: Must be run through the converter util before usable. DO NOT EXEC THES
 
 - Axton: Contains the Axton skill changes.
 
+- Axton_Tree: Swaps the locations of Crisis Management and Resourceful
+
 - Simple: Hotfixes for my patch set, enables Raving Retribution rants, adds Gen 2 pearls to OMGWTH's loot pool at OP8 (or at least tries to, haven't playtested this yet), adds the Grog to the Gold Golem's loot pool.
 
 - TPS Skills: Changes skill trees to act like TPS skill trees, such that tier 3 -> 4 only requires one point. Probably overkill, but can be fun to mess around with.

@@ -1,0 +1,7 @@
+start OnDemand GD_Soldier_Streaming
+# Swap Resourceful and Crisis Management
+set GD_Soldier_Skills.SkillTree.Branch_Guerrilla Tiers[4].Skills[0] SkillDefinition'GD_Soldier_Skills.Survival.Resourceful'
+set GD_Soldier_Skills.SkillTree.Branch_Survival Tiers[3].Skills[0] SkillDefinition'GD_Soldier_Skills.Guerrilla.CrisisManagement'
+# Swap Scorched Earth and Longbow
+# set GD_Soldier_Skills.SkillTree.Branch_Guerrilla Tiers[2].Skills[1] SkillDefinition'GD_Soldier_Skills.Gunpowder.LongbowTurret'
+# set GD_Soldier_Skills.SkillTree.Branch_Gunpowder Tiers[2].Skills[1] SkillDefinition'GD_Soldier_Skills.Guerrilla.ScorchedEarth'
