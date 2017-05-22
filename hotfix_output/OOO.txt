@@ -1,0 +1,3 @@
+set Transient.SparkServiceConfiguration_6 Keys ("SparkLevelPatchEntry-OOO1")
+
+set Transient.SparkServiceConfiguration_6 Values (",GD_Native_Badass.WeightingPlayerCount.FireGod_PerPlayers,ConditionalInitialization,,(bEnabled=True,ConditionalExpressionList=(),DefaultBaseValue=(BaseValueConstant=0.05,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.0))")

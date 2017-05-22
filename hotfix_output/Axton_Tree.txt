@@ -1,0 +1,3 @@
+set Transient.SparkServiceConfiguration_6 Keys ("SparkOnDemandPatchEntry-Axton_Tree1","SparkOnDemandPatchEntry-Axton_Tree2")
+
+set Transient.SparkServiceConfiguration_6 Values ("GD_Soldier_Streaming,GD_Soldier_Skills.SkillTree.Branch_Guerrilla,Tiers[4].Skills[0],,SkillDefinition'GD_Soldier_Skills.Survival.Resourceful'","GD_Soldier_Streaming,GD_Soldier_Skills.SkillTree.Branch_Survival,Tiers[3].Skills[0],,SkillDefinition'GD_Soldier_Skills.Guerrilla.CrisisManagement'")
