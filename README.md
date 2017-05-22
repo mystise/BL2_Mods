@@ -7,6 +7,8 @@ Collection of my Borderlands 2 mods
 
 - Legendary Pointman: Makes the health bonus MT_PreAdd, and swaps Pressure for Forbearance.
 
+- Disable Pesky Common Gear: Disables white gear from dropping in UVHM, disables green gear from chests. Based on the UCP 3.0 UVHM changes, but lowered DOT damage to 2x instead of 3.5x
+
 UCP: Adopted from the Unofficial Community Patch v2.1
 
 - Auto Pickup: Enables automatic pickup on Eridium, Torgue Tokens, and Seraph Crystals.
